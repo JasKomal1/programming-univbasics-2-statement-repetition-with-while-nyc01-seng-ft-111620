@@ -2,7 +2,7 @@
 exit_num = 0 
 count = 10 
 
-while count > 0 do 
+while count > -1 do 
   if count == 0 
     puts 'Happy New Year!'
   else 
